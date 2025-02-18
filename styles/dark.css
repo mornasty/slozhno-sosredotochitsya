@@ -2,8 +2,13 @@
   --header-logo-color: #db00ff;
   --main-bg-color: #00183f;
   --accent-color: #ff0070;
+  --wrapper-color: #ff0070;
   --shadow-color: #ff0070;
+  --button-color: #ff0070;
+  --title-color: #ff0070;
+  --descr-color: #f1b2ce;
   --accent-color-light: #f1b2ce;
+  --a-color: #f1b2ce;
   --bg-image: url("../images/cover-image-dark.png");
   --bg-color: #000028;
   --txt-color: #000028;
